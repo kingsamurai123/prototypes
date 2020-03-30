@@ -24,7 +24,7 @@ body {
     animation: animate 20s linear infinite;
 }
 .shadow:after{
-    filter: blur(20px);
+    filter: blur(25px);
 }
 @keyframes animate
 {
@@ -35,7 +35,7 @@ body {
 
     50%
     {
-        background-position: 300% 0;
+        background-position: 300% 100%;
     }
 
     100%
