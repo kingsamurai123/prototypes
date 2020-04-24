@@ -1,3 +1,3 @@
 # prototypes
- Sample Web pages to learn on the go
+ Sample Prototypes learning on the go
 Just practising things
